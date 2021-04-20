@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-foodstock-dev-132314-authRole",
+      "UnauthRoleArn": "arn:aws:iam::189930017341:role/amplify-foodstock-dev-132314-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::189930017341:role/amplify-foodstock-dev-132314-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-foodstock-dev-132314-deployment",
+      "UnauthRoleName": "amplify-foodstock-dev-132314-unauthRole",
+      "StackName": "amplify-foodstock-dev-132314",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:189930017341:stack/amplify-foodstock-dev-132314/357e14f0-a190-11eb-9f0f-0ed2cfff1a51",
+      "AmplifyAppId": "dfu9giro0lqh"
+    },
+    "categories": {
+      "auth": {
+        "foodstock08ce6406": {}
+      }
+    }
+  }
+}
